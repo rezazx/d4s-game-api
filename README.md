@@ -9,7 +9,7 @@ Connect Four (also known as Connect 4, Four Up, Plot Four, Find Four, Captain's 
 [read more on wikipedia](https://en.wikipedia.org/wiki/Connect_Four)
 ```
 
-## backe-nd
+## back-end
 This is an open source project to implement a php api for CONNECT4.
 Users can play randomly with each other or with the embedded robot ID number 1.
 

@@ -1,0 +1,24 @@
+{
+    "name": "reza.zx/d4s",
+    "description": "Connect4 (D4S) is a game with online and single player capabilities.",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "RezaZx\\D4s\\": "classes/",
+            "MRZX\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Reza Ahmadi",
+            "email": "Reza.zx@live.com",
+            "homepage": "https://mrzx.ir"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6",
+        "sergeytsalkov/meekrodb": "^2.4",
+        "php": ">=7.2"
+    }
+}
